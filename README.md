@@ -23,7 +23,7 @@ I was hired as a "data analyst" but ended up in an operations role upkeeping our
 
 After wrapping my mind around the fundamentals of analytics and reporting I started looking for a way to drive more impact and help more jobseekers get jobs with Indeed. I enrolled in a full stack development bootcamp to build my technical skills to a new level. I'm looking forward to working as a SWE so that I can directly build tools and features that will help my users in any/every capacity. 
 
-If you made it through all of that, **thank you for reading!** Feel free to contact me any time to chat or ask questions.
+If you made it through all of that, **thank you for reading!** Feel free to contact me any time with feedback or questions.
 
 Cheers,<br/>
 Jacob
