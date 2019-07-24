@@ -3,7 +3,7 @@
 # Purpose
 I've built this portfolio to briefly introduce myself and show you my technical abilities as a software engineer (SWE). The index page serves as a short and sweet introduction, whereas the projects page is a neat display of all of the software projects I've worked on. Lastly, the contact page is where you can follow up with me or leave feedback.
 
-If you'd like the long and sweet introduction, then please keep reading below. Otherwise feel free to open up my portfolio and begin browsing through my software projects.
+**If you'd like the long and sweet introduction, then please keep reading below. Otherwise feel free to open up my portfolio and begin browsing through my software projects.**
 <br/>
 <br/>
 <br/>
@@ -24,7 +24,7 @@ I was hired as a "data analyst" but ended up in an operations role upkeeping our
 
 After wrapping my mind around the fundamentals of analytics and reporting I started looking for a way to drive more impact and help more jobseekers get jobs with Indeed. I enrolled in a full stack development bootcamp to build my technical skills to a new level. I'm looking forward to working as a SWE so that I can directly build tools and features that will help my users in any/every capacity. 
 
-If you made it through all of that, thank you for reading! Feel free to contact me any time to chat or ask questions.
+If you made it through all of that, **thank you for reading!** Feel free to contact me any time to chat or ask questions.
 
-Cheers,
+Cheers,<br/>
 Jacob
