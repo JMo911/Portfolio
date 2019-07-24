@@ -1,6 +1,6 @@
 ![Alt text](assets/images/LogoMakr_73l3bo.png "Jacob Moss")
 
-#Purpose
+# Purpose
 I've built this portfolio to briefly introduce myself and show you my technical abilities as a software engineer (SWE). The index page serves as a short and sweet introduction, whereas the projects page is a neat display of all of the software projects I've worked on. Lastly, the contact page is where you can follow up with me or leave feedback.
 
 If you'd like the long and sweet introduction, then please keep reading below. Otherwise feel free to open up my portfolio and begin browsing through my software projects.
