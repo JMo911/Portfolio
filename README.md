@@ -1,4 +1,4 @@
-<center>![Alt text](assets/images/LogoMakr_73l3bo.png "Jacob Moss")</center>
+<div style="text-align:center">![Alt text](assets/images/LogoMakr_73l3bo.png "Jacob Moss")</div>
 
 # Purpose
 I've built this portfolio to briefly introduce myself and show you my technical abilities as a software engineer (SWE). The index page serves as a short and sweet introduction, whereas the projects page is a neat display of all of the software projects I've worked on. Lastly, the contact page is where you can follow up with me or leave feedback.
