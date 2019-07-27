@@ -1,0 +1,43 @@
+body {
+    background-image: url("../images/grey-wood-background.jpg");
+}
+
+body::before{
+    opacity: 0.5;
+}
+
+#logo-pic{
+    height: -webkit-fill-available;
+}
+
+.nav-wrapper {
+    background-color: powderblue;
+}
+
+body > nav > div > ul > li > a {
+    color: black;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.parallax-container {
+    height: 100px;
+}
+
+.materialboxed{
+    border-radius: 1em;
+    height: 300px;
+}
+
+.section > h5 {
+    text-indent: 5px;
+}
+
+.section > p {
+    line-height: 30px;
+    font-size: large;
+    text-indent: 30px;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
