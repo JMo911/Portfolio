@@ -1,13 +1,17 @@
 $(document).ready(function(){
     var projects = [
-        {"data-title": "Around the World",
-            "data-url": "https://jmo911.github.io/Word-Guess-Game/",
-            "data-picsource": "../images/spinningGlobe.gif"
+        {"data-title": "DiagNotes",
+            "data-url": "https://jmo911.github.io/DiagNotes/index.html",
+            "data-picsource": "../images/diagnotes-logo copy.jpg"
         },
-        {"data-title": "Crystal Collector",
-            "data-url": "https://jmo911.github.io/Crystal-Collector/",
-            "data-picsource": "../images/Crystal.png"
+        {"data-title": "Giphy Search",
+            "data-url": "https://jmo911.github.io/GiphyAJAX/",
+            "data-picsource": "../images/giphy.gif"
         },
+        {"data-title": "Disney Trivia",
+        "data-url": "https://jmo911.github.io/Trivia-Game/",
+        "data-picsource": "../images/Mickey background copy.jpg"
+        }
     ];
     // console.log(projects)
     
