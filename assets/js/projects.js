@@ -15,17 +15,17 @@ $(document).ready(function(){
     ];
     // console.log(projects)
     
-    projects.forEach(function(e){
-        var projectLink = $("<a>");
-        var projectDiv = $("<div>");
-        var projectPic = $("<img>");
-        console.log(e);
-        projectLink.attr("href", e["data-url"]);
-        projectPic.attr("src", e["data-picsource"]);
-        projectDiv.append(projectPic);
-        projectLink.append(projectDiv);
-        $("#projectContainer").append(projectLink);
-    })
+    // projects.forEach(function(e){
+    //     var projectLink = $("<a>");
+    //     var projectDiv = $("<div>");
+    //     var projectPic = $("<img>");
+    //     console.log(e);
+    //     projectLink.attr("href", e["data-url"]);
+    //     projectPic.attr("src", e["data-picsource"]);
+    //     projectDiv.append(projectPic);
+    //     projectLink.append(projectDiv);
+    //     $("#projectContainer").append(projectLink);
+    // })
 
 
 
