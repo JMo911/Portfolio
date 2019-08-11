@@ -3,6 +3,10 @@ form {
     border-radius: 0.5em;
 }
 
+.carousel{
+    height: 300px;
+}
+
 .btn-row{
     text-align: end;
 }

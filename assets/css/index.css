@@ -2,6 +2,10 @@ body {
     background-image: url("../images/grey-wood-background.jpg");
 }
 
+.header{
+    margin-top: 80px;
+}
+
 #logo-pic{
     height: -webkit-fill-available;
 }
