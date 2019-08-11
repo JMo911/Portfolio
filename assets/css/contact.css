@@ -1,0 +1,12 @@
+form {
+    background-color: azure;
+    border-radius: 0.5em;
+}
+
+.btn-row{
+    text-align: end;
+}
+
+.btn-row > button{
+    margin-right: 10px;
+}
